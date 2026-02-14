@@ -1,12 +1,5 @@
 <h1 align="center">Fala dev 👋 eu sou o Rhyan</h1>
 
-<p align="center">
-  💻 Frontend Developer focado em sistemas reais <br>
-  ⚙️ Construindo interfaces que não só são bonitas — funcionam de verdade
-</p>
-
----
-
 ## 🎯 Sobre mim
 
 - 🧩 Desenvolvedor Frontend (Next.js / React)
