@@ -10,13 +10,10 @@
 ## 🎯 Sobre mim
 
 - 🧩 Desenvolvedor Frontend (Next.js / React)
-- 🏢 Experiência em sistemas web empresariais
+- 🏢 Aprimorando minha experiência em sistemas web empresariais
 - 🧠 Gosto de melhorar UX, sugerir soluções e organizar código
 - 🤝 Comunicativo e trabalho bem em equipe
 - 🏋️ Academia + ⚽ futebol + 🎮 jogos online (equilíbrio mental é importante)
-
-> Não sou o cara da landing page bonita  
-> Sou o cara que faz o sistema inteiro funcionar sem o usuário se perder
 
 ---
 
