@@ -50,6 +50,6 @@
 
 ---
 
-<p align="center">
+<!-- <p align="center">
   <i>Em constante evolução — igual ranking competitivo 😄</i>
-</p>
+</p> -->
